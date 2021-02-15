@@ -54,6 +54,6 @@ if __name__ == "__main__":
     print("Subtraction v0 and v1: " + str(v1 - v0)) 
   
     print("Dot Product of v0 and v1: " + str(v0.dot(v1))) 
-    print("v1",v1.abs())
+    #print("v1",v1.abs())
   
     
